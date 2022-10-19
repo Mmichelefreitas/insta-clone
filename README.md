@@ -6,5 +6,5 @@
 
 #Recriando a página inicial do Instagram - :construction: Status : Concluído :heavy_check_mark:
 
-##Autor: Maria michele de Freitas
+##Autor: Maria Michele de Freitas
 
