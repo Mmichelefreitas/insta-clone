@@ -6,5 +6,7 @@
 
 ## Recriando a página inicial do Instagram - :construction: Status : Concluído :heavy_check_mark:
 
+### Veja ao vivo no GitHub Pages no endereço: https://mmichelefreitas.github.io/insta-clone
+
 ### Autor: Maria Michele de Freitas
 
